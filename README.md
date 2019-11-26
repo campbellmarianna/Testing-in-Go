@@ -9,5 +9,5 @@ Tasks:
 - [x] Run tests
 - [x] Add extra test cases using Table Driven Testing 
 - [x] Get Verbose Test Output
-- [] Check test converage
-- [] Visualize Test Coverage 
+- [x] Check test converage
+- [x] Visualize Test Coverage 
