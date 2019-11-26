@@ -1,7 +1,7 @@
 # Go Testing
-- to get familar with testing in Go I am doing a highly recommended tutorial
+I'm learning testing in Go lang by following an article so that I'm able to check the correctness of my code
 
-Tutorial: [An Introduction to Go](https://tutorialedge.net/golang/intro-testing-in-go/)
+Article Resource: [An Introduction to Go](https://tutorialedge.net/golang/intro-testing-in-go/)
 
 Tasks:
 - [x] Create Go test files
