@@ -4,13 +4,12 @@ import (
 	"fmt"
 )
 
+// Calculate returns x + 2
 func Calculate(x int) (result int) {
 	result = x + 2
 	return result
 }
 
 func main() {
-	fmt.Println("Go Testing Tutorial")
-	result := Calculate(2)
-	fmt.Println(result)
+	fmt.Println("Hello World")
 }

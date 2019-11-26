@@ -5,6 +5,13 @@ Article Resources
 - [An Introduction to Go](https://tutorialedge.net/golang/intro-testing-in-go/)
 - [An Introduction to Benchmarking](https://tutorialedge.net/golang/benchmarking-your-go-programs/)
 
+Meaningingful Quote:
+```
+Note - It’s important to note that performance tweaking should typically be done after the system is up and running.
+
+“Premature optimization is the root of all evil” - Donald Knuth
+```
+
 Intro to Go Tasks:
 - [x] Create Go test files
 - [x] Write a simple test file
@@ -15,7 +22,6 @@ Intro to Go Tasks:
 - [x] Visualize Test Coverage 
 
 Itro to Benchmarking Tasks:
-- [] Write a simple benchmark test
-- [] Run benchmark tests
-- [] Add complexity to benchmark test
-- [] 
+- [x] Write a simple benchmark test
+- [x] Run benchmark tests
+- [x] Add complexity to benchmark test
